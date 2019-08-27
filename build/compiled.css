@@ -1,0 +1,265 @@
+/* 
+* Painter by 'NG235' (github.com/NG235/painter)
+* Copyright 2019 'NG235'
+* Licensed under MIT (https://github.com/NG235/painter/blob/master/LICENSE)
+*/
+
+.callout.callout-blue {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #007bff;
+}
+
+.callout.callout-indigo {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #6610f2;
+}
+
+.callout.callout-purple {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #6f42c1;
+}
+
+.callout.callout-pink {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #e83e8c;
+}
+
+.callout.callout-red {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #dc3545;
+}
+
+.callout.callout-orange {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #fd7e14;
+}
+
+.callout.callout-yellow {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #ffc107;
+}
+
+.callout.callout-green {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #28a745;
+}
+
+.callout.callout-teal {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #20c997;
+}
+
+.callout.callout-cyan {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #17a2b8;
+}
+
+.callout.callout-light {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #f8f9fa;
+}
+
+.callout.callout-gray {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #6c757d;
+}
+
+.callout.callout-dark {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #343a40;
+}
+
+.switch.switch-blue:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #007bff;
+    background-color: #007bff;
+}
+
+.switch.switch-indigo:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #6610f2;
+    background-color: #6610f2;
+}
+
+.switch.switch-purple:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #6f42c1;
+    background-color: #6f42c1;
+}
+
+.switch.switch-pink:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #e83e8c;
+    background-color: #e83e8c;
+}
+
+.switch.switch-red:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #dc3545;
+    background-color: #dc3545;
+}
+
+.switch.switch-orange:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #fd7e14;
+    background-color: #fd7e14;
+}
+
+.switch.switch-yellow:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #ffc107;
+    background-color: #ffc107;
+}
+
+.switch.switch-green:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #28a745;
+    background-color: #28a745;
+}
+
+.switch.switch-teal:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #20c997;
+    background-color: #20c997;
+}
+
+.switch.switch-cyan:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #17a2b8;
+    background-color: #17a2b8;
+}
+
+.switch.switch-light:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #f8f9fa;
+    background-color: #f8f9fa;
+}
+
+.switch.switch-gray:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #6c757d;
+    background-color: #6c757d;
+}
+
+.switch.switch-dark:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #343a40;
+    background-color: #343a40;
+}
+
+.code.code-blue {
+    color: #007bff;
+}
+
+.code.code-indigo {
+    color: #6610f2;
+}
+
+.code.code-purple {
+    color: #6f42c1;
+}
+
+.code.code-pink {
+    color: #e83e8c;
+}
+
+.code.code-red {
+    color: #dc3545;
+}
+
+.code.code-orange {
+    color: #fd7e14;
+}
+
+.code.code-yellow {
+    color: #ffc107;
+}
+
+.code.code-green {
+    color: #28a745;
+}
+
+.code.code-teal {
+    color: #20c997;
+}
+
+.code.code-cyan {
+    color: #17a2b8;
+}
+
+.code.code-light {
+    color: #f8f9fa;
+}
+
+.code.code-gray {
+    color: #6c757d;
+}
+
+.code.code-dark {
+    color: #343a40;
+}

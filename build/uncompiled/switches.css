@@ -1,0 +1,83 @@
+/* 
+* Painter by 'NG235' (github.com/NG235/painter)
+* Copyright 2019 'NG235'
+* Licensed under MIT (https://github.com/NG235/painter/blob/master/LICENSE)
+*/
+
+.switch.switch-blue:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #007bff;
+    background-color: #007bff;
+}
+
+.switch.switch-indigo:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #6610f2;
+    background-color: #6610f2;
+}
+
+.switch.switch-purple:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #6f42c1;
+    background-color: #6f42c1;
+}
+
+.switch.switch-pink:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #e83e8c;
+    background-color: #e83e8c;
+}
+
+.switch.switch-red:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #dc3545;
+    background-color: #dc3545;
+}
+
+.switch.switch-orange:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #fd7e14;
+    background-color: #fd7e14;
+}
+
+.switch.switch-yellow:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #ffc107;
+    background-color: #ffc107;
+}
+
+.switch.switch-green:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #28a745;
+    background-color: #28a745;
+}
+
+.switch.switch-teal:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #20c997;
+    background-color: #20c997;
+}
+
+.switch.switch-cyan:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #17a2b8;
+    background-color: #17a2b8;
+}
+
+.switch.switch-light:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #f8f9fa;
+    background-color: #f8f9fa;
+}
+
+.switch.switch-gray:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #6c757d;
+    background-color: #6c757d;
+}
+
+.switch.switch-dark:checked~.custom-control-label::before {
+    color: #fff;
+    border-color: #343a40;
+    background-color: #343a40;
+}

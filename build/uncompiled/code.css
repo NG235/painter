@@ -1,0 +1,57 @@
+/* 
+* Painter by 'NG235' (github.com/NG235/painter)
+* Copyright 2019 'NG235'
+* Licensed under MIT (https://github.com/NG235/painter/blob/master/LICENSE)
+*/
+
+.code.code-blue {
+    color: #007bff;
+}
+
+.code.code-indigo {
+    color: #6610f2;
+}
+
+.code.code-purple {
+    color: #6f42c1;
+}
+
+.code.code-pink {
+    color: #e83e8c;
+}
+
+.code.code-red {
+    color: #dc3545;
+}
+
+.code.code-orange {
+    color: #fd7e14;
+}
+
+.code.code-yellow {
+    color: #ffc107;
+}
+
+.code.code-green {
+    color: #28a745;
+}
+
+.code.code-teal {
+    color: #20c997;
+}
+
+.code.code-cyan {
+    color: #17a2b8;
+}
+
+.code.code-light {
+    color: #f8f9fa;
+}
+
+.code.code-gray {
+    color: #6c757d;
+}
+
+.code.code-dark {
+    color: #343a40;
+}
