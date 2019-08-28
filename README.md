@@ -33,6 +33,6 @@ Painter Color | Bootstrap Color | Color Code
 ## Classes
 Component | Class 1 | Class 2
 ------------ | ------------ | ------------
-Callout | callout | callout-<var>color</var>
-Custom Switch | switch | switch-<var>color</var>
-Custom Code | code | code-<var>color</var>
+Callout | <code>callout</code> | <code>callout-<var>color</var></code>
+Custom Switch | <code>switch</code> | <code>switch-<var>color</var></code>
+Custom Code | <code>code</code> | <code>code-<var>color</var></code>
