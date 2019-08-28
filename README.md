@@ -11,19 +11,19 @@ Painter uses renamed Bootstrap colors for added components. All regular Bootstra
 
 Painter Color | Bootstrap Color | Color Code
 ------------ | ------------ | ------------
-blue | primary | #007bff
-indigo || #6610f2
-purple || #6f42c1
-pink || #e83e8c
-red | danger | #dc3545
-orange || #fd7e14
-yellow | warning | #ffc107
-green | success | #28a745
-teal || #20x997
-cyan | info | #17a2b8
-light | light | #f8f9fa
-gray || #6c7578d
-dark | dark | #343a40
+<code>blue</code> | <code>primary | <code>#007bff</code>
+<code>indigo</code> || <code>#6610f2</code>
+<code>purple</code> || <code>#6f42c1</code>
+<code>pink</code> || <code>#e83e8c</code>
+<code>red</code> | <code>danger</code> | <code>#dc3545</code>
+<code>orange</code> || <code>#fd7e14</code>
+<code>yellow</code> | <code>warning</code> | <code>#ffc107</code>
+<code>green</code> | <code>success</code> | <code>#28a745</code>
+<code>teal</code></code> || <code>#20x997</code>
+<code>cyan</code> | <code>info</code> | <code>#17a2b8</code>
+<code>light</code> | <code>light</code> | <code>#f8f9fa</code>
+<code>gray</code> || <code>#6c7578d</code>
+<code>dark</code> | <code>dark</code> | <code>#343a40</code>
 
 ## Features
 * Callouts
