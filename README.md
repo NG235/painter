@@ -7,7 +7,7 @@ Painter is a CSS library that builds on extra pre-defined styles to bootstrap.
 To add Painter to your project, simply download the files in the <code>build</code> folder. Use <code>compiled.css</code> for all added styles, or select singular ones from the <code>uncompiled</code> folder.
 
 ## Colors
-Painter uses renamed Bootstrap colors. (See below)
+Painter uses renamed Bootstrap colors for added components. All regular Bootstrap components have the same color names. (See below)
 
 Painter Color | Bootstrap Color | Color Code
 ------------ | ------------ | ------------
@@ -26,5 +26,13 @@ gray || #6c7578d
 dark | dark | #343a40
 
 ## Features
+* Callouts
+* Custom Switch Colors
+* Custom Code Colors
 
 ## Classes
+Component | Class 1 | Class 2
+------------ | ------------ | ------------
+Callout | callout | callout-<var>color</var>
+Custom Switch | switch | switch-<var>color</var>
+Custom Code | code | code-<var>color</var>
