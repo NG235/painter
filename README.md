@@ -31,7 +31,7 @@ Painter Color | Bootstrap Color | Color Code
 * Custom Code Colors
 
 ## Classes
-Classes are written as <code>callout callout-<var>color</var></code>, replacing <var>color</var> with a color from above.
+Classes are written as <code>class1 class2-<var>color</var></code>, replacing <var>color</var> with a color from above.
 
 Component | Class 1 | Class 2
 ------------ | ------------ | ------------
